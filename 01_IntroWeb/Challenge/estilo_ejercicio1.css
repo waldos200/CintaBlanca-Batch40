@@ -1,0 +1,37 @@
+* {
+    background-color: #6dbad8;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;  
+}
+
+.img1 {
+    width: 400px;
+}
+
+.img2 {
+    width: 400px;
+}
+
+.img3 {
+    width: 400px;
+}
+
+.l1 {
+    color: blue;
+}
+
+.l2 {
+    color: white;
+}
+
+.l3 {
+    color: yellow;
+}

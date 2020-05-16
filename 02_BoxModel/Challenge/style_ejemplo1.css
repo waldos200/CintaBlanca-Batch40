@@ -1,0 +1,71 @@
+.Contenedor {
+    /* border: 1px black solid; */
+    margin-top: 20px;
+    padding-bottom: 480px ;
+}
+
+img{
+    /* border: 1px black solid; */
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.Header {
+    /* border: 1px black solid; */
+    margin: 10px;
+}
+
+.parte_pequena {
+    /* border: 1px black solid; */
+    margin-left: 1440px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.head {
+    width: 40px;
+    /* border: 1px black solid; */
+    margin: 3px;
+}
+
+.google {
+    /* border: 1px black solid; */
+    margin: 10px 500px;
+}
+
+.buscar {
+    margin-left: 200px;
+}
+
+.suerte {
+    margin-left: 10px;
+}
+
+input {
+    margin-left: 160px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    padding: 5px 100px;
+}
+
+.buscar {
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.suerte {
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.Gmail {
+    text-decoration: none;
+    color: black;
+}
+
+.imagen {
+    text-decoration: none;
+    color: black;
+}

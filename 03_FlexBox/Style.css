@@ -1,0 +1,23 @@
+.container {
+    border: 1px black solid;
+    height: 400px;
+    display: flex;
+    /* Mueve elementos horizontalmente */
+    justify-content: center;
+    /* Mueve elementos verticalmente */
+    align-items: center;
+    /* Invierte los ejes y pone los elementos en columna */
+    flex-direction: column;
+}
+
+.hijo {
+    border: 1px blue solid;
+    height: 30%;
+    width: 30%;
+}
+
+.hija {
+    border: 1px rgb(230, 59, 230) solid;
+    height: 30%;
+    width: 30%;
+}

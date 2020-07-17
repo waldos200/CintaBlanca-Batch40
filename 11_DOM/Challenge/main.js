@@ -21,14 +21,14 @@ const cambio = () => {
     let pizzaReal = pizza.value
     let comprarPizza = pizzaReal.toLowerCase()
 
-    if(comprarPizza === 'si'){
+    if (comprarPizza === 'si') {
         piña.innerHTML = piña.classList.remove('none_piña')
         pollo.innerHTML = pollo.classList.add('none_pollo')
-    }else if(comprarPizza === 'no') {
+    } else if (comprarPizza === 'no') {
         pollo.innerHTML = pollo.classList.remove('none_pollo')
         piña.innerHTML = piña.classList.add('none_piña')
-    }else
+    } else
         textoPizza.innerHTML = 'Datos incorrectos'
-    }
+}
 
 boton.addEventListener('click', cambio)
